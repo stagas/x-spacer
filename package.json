@@ -3,7 +3,7 @@
   "author": "stagas",
   "short": "stagas/x-spacer",
   "description": "custom element horizontal/vertical resizable spacer of arbitrary number of children",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
